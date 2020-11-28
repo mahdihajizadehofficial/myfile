@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 <?php
-exit;exit;exit;exit;
+
 /**
  * UploaditRoBot
  * Simple Telegram bot to generate download link of files and upload files from URL
